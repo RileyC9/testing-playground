@@ -22,3 +22,4 @@
 - Then click the create button at the bottom of the page
 ![create brnach protection rule button](./images/branch_protection/branch_protection4.png)
 - So now the branch protection rule have applied to main branch. I can always come here to edit the rules applied to main branch (or any other branches that I specify in this setting or a new setting).
+![main branch protection](./images/branch_protection/branch_protection5.png)
