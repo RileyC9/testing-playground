@@ -1,5 +1,7 @@
-#Solving git conflict#
-###03-15-2024###
+#Solving git conflict
+
+###03-15-2024
+
 - I have created 1 commit on main modifying this README.md, which I added the breif introduction above.
 - I have also created a new branch called solving-git-conflict branch and another commit. It contains an update on the same README.md file about what I am doing for this practice.
 - Later I pushed both commit and try to merge them by creating a pull request. This is what I received:
