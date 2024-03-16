@@ -5,7 +5,7 @@
 - I have created 1 commit on main modifying this README.md, which I added the breif introduction above.
 - I have also created a new branch called solving-git-conflict branch and another commit. It contains an update on the same README.md file about what I am doing for this practice.
 - Later I pushed both commit and try to merge them by creating a pull request. This is what I received:
-![git-conflict-detected-image](./images/comflict1.png)
+![git-conflict-detected-image](./images/conflict1.png)
 - The steps to solve this problem is:
   1. Click on the resolve conflict button. And I saw the following screen:
   ![solving-git-conflict](./images/conflict2.png)
